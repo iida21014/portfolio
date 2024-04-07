@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.09b43562.css",
+    "main.js": "/portfolio/static/js/main.bc25e765.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/portfolio/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/favicon.png": "/portfolio/static/media/favicon.560afdee607bcf2e0a1b.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.4e8eb0dba0f076701083.png",
+    "static/media/background.png": "/portfolio/static/media/background.30e3ddf72f2ace56f476.png",
+    "static/media/SpektriLogo.png": "/portfolio/static/media/SpektriLogo.6f785720ad54aef0bcb1.png",
+    "index.html": "/portfolio/index.html",
+    "main.09b43562.css.map": "/portfolio/static/css/main.09b43562.css.map",
+    "main.bc25e765.js.map": "/portfolio/static/js/main.bc25e765.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/portfolio/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b43562.css",
+    "static/js/main.bc25e765.js"
+  ]
+}
