@@ -5,7 +5,103 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   ;
 }
+
+.hero-image {
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;
+position: relative;
+}
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+
+img.banner.img-fluid {
+  margin-left: 30%;
+  margin-right: 30%;
+  height: 100px
+}
+
+ul.navbar-nav{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+li.nav-item{
+  font-size: larger;
+  font-weight: 700;
+  margin-right: 20px;
+}
+
+button.navbar-toggler {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h1, h2, h3, h4, h5 {
+  color: rgb(14, 90, 123);
+}
+
+h2.card-title {
+  color: rgb(14, 90, 123);
+}
+
+
+a.btn.btn-lg.active{
+  background-color: rgb(14, 90, 123);
+  color: white;
+}
+
+a.btn.btn-lg.active:hover{
+  background-color: rgb(70, 148, 154);
+}
+
+
+a.icon-link{
+  margin-right: 20px;
+  margin-top: 50px;
+  color: rgb(14, 90, 123);
+}
+
+a.icon-link:hover{
+  color: rgb(70, 148, 154);
+}
+
+svg.bi.bi-facebook, svg.bi.bi-instagram, svg.bi.bi-linkedin{
+  width: 50px;
+  height: auto;
+}
+
+div.card-header{
+  background-color: rgba(14, 90, 123, 0.708);
+  ;
+}
+
+div.card-footer{
+  background-color: rgba(14, 90, 123, 0.233);
+  ;
+}
+
+img.logo.img-fluid{
+  max-height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  
+  
+}
+
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
